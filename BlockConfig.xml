@@ -1762,7 +1762,7 @@
 <DisIntegraterExplosive icon="17" name="Dés-intégrateur (Explosif)" textureId="254" type="EXPLOSIVE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>300</Price>
-<Description>Le dés-intégrateur est un explosif grossier mais efficace.\n\r&#13;Il peut être allié avec d'autres dés-intégrateur pour\n\r&#13;augmenter le rayon et la puissance de l'explosion.\n\r&#13;Ils sont actuellement activés par contact avec\n\r&#13;d'autres blocs et exploseront immédiatement.\n\r&#13;Ils sont ainsi très efficace pour creér des mines ou des missiles;\n\r&#13;les applications possibles ne sont limitées que par votre imagination.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Le dés-intégrateur est un explosif grossier mais efficace.\n\r&#13;Il peut être allié avec d'autres dés-intégrateur pour\n\r&#13;augmenter le rayon et la puissance de l'explosion. Ils \n\r&#13;sont actuellement activés par contact avec\n\r&#13;d'autres blocs et exploseront immédiatement.\n\r&#13;Ils sont ainsi très efficace pour creér des mines ou des;\n\r&#13;missiles, les applications possibles ne sont limitées que par\n\r&#13;\votre imagination.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <FullName>Unité de Désintégration des Particules SubAtomiques R0GUE</FullName>
 <ControlledBy>
 <Element>CORE_ID</Element>
@@ -1784,7 +1784,7 @@
 <CCloaker icon="18" name="Module d'Invisibilité 0C" textureId="224" type="CLOAKING_ID">
 <IndividualSides>6</IndividualSides>
 <Price>800</Price>
-<Description>Le Module d'Invisibilité 0C est capable\n\r&#13;de rendre un objet complétement invisible avant\n\r&#13;td'avoir besoin de se recharger. Sa puissance est limité par\n\r&#13;le nombre de module à bord et leur organisation.\n\r&#13;\n\r&#13;Ainsi, de plus grands objets ont besoin d'un grand\n\r&#13;groupe de module d'Invisibilité.\n\r&#13;\n\r&#13;Afin d'utiliser le module, assignez-leurs une touche comme\n\r&#13;pour les autres sytèmes.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Le Module d'Invisibilité 0C est capable\n\r&#13;de rendre un objet complétement invisible avant\n\r&#13;d'avoir besoin de se recharger. Sa puissance est\n\r&#13;limitée par le nombre de module à bord \n\r&#13;et leur organisation.\n\r&#13;\n\r&#13;Ainsi, de plus grands objets ont besoin d'un grand\n\r&#13;groupe de module d'Invisibilité.\n\r&#13;\n\r&#13;Afin d'utiliser le module, assignez-leurs une touche\n\r&#13;comme pour les autres sytèmes.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <FullName>Ordinateur de contre-mesure visuelle R0GUE 0C</FullName>
 <ControlledBy>
 <Element>CORE_ID</Element>
@@ -1806,7 +1806,7 @@
 <xRadarJammer icon="19" name="Brouilleur de Radar 10x" textureId="54" type="RADAR_JAMMING_ID">
 <IndividualSides>6</IndividualSides>
 <Price>900</Price>
-<Description>Le Brouilleur de Radar 10x cachera votre signature\n\r&#13;radar aux autres pilotes. Néanmoins, ses limitations\n\r&#13;sont similaire à celle du Module d'Invisibilité 0C. Plus vous disposez de\n\r&#13;brouilleurs et plus ils sont regroupés\n\r&#13;meilleur sera le brouillage.\n\r&#13;\n\r&#13;Pour l'utiliser, assignez-leurs une touche comme\n\r&#13;pour les autres systèmes.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Le Brouilleur de Radar 10x cachera votre signature\n\r&#13;radar aux autres pilotes. Néanmoins, ses limitations\n\r&#13;sont similaire à celle du Module d'Invisibilité 0C. Plus \n\r&#13;vous disposez de brouilleurs et plus ils sont regroupés\n\r&#13;meilleur sera le brouillage.\n\r&#13;\n\r&#13;Pour l'utiliser, assignez-leurs une touche comme\n\r&#13;pour les autres systèmes.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <FullName>Ordinateur navcom de contre-mesure radar R0GUE 10x</FullName>
 <ControlledBy>
 <Element>CORE_ID</Element>
@@ -1828,7 +1828,7 @@
 <HyperfluxCoilThruster icon="20" name="Propulseur à Bobines Hyperflux" textureId="70" type="THRUSTER_ID">
 <IndividualSides>6</IndividualSides>
 <Price>275</Price>
-<Description>Le propulseur à bobines Hyperflux est le moyen de\n\r&#13;propulsion de référence pour tout les vaisseaux.\n\r&#13;Ils utilisent l'énergie fournis par le générateur SD HCT xm3.4.\n\r&#13;\n\r&#13;En groupe, ils vous offriront plus de poussées,\n\r&#13;une meilleure accélération, et une maniabilité plus important.\n\r&#13;Tout cela est au prix d'une consommation plus grande.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Le propulseur à bobines Hyperflux est le moyen de\n\r&#13;propulsion de référence pour tout les vaisseaux.\n\r&#13;Ils utilisent l'énergie fournis par le générateur. \n\r&#13;SD HCT xm3.4.\n\r&#13;\n\r&#13;En groupe, ils vous offriront plus de poussées, une\n\r&#13;meilleure accélération, et une maniabilité plus important.\n\r&#13;Tout cela est au prix d'une consommation plus grande.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <FullName>Propulseur à Bobines Hyperflux (TM) SchemaDyne</FullName>
 <ControlledBy>
 <Element>CORE_ID</Element>
@@ -1850,7 +1850,7 @@
 <SDShieldDisperser icon="23" name="Générateur de Bouclier SD" textureId="156" type="SHIELD_ID">
 <IndividualSides>1</IndividualSides>
 <Price>275</Price>
-<Description>Le générateur de Bouclier SD est capable de\n\r&#13;générer un bouclier autour de l'objet auquel il est attaché.\n\r&#13;\n\r&#13;Bien qu'il ne soit pas affecté par le méthode de\n\r&#13;groupement standard, il est affecté par\n\r&#13;une autre méthode de groupement (celle des blocs non liés).\n\r&#13;Ainsi deux boucliers cote à cote auront la\n\r&#13;meme puissance que deux boucliers séparés.\n\r&#13;\n\r&#13;En plaçant plus d'un bouclier, vous disposerez\n\r&#13;des avantages suivants :\n\r&#13;\n\r&#13;Charge du bouclier (Dommage total absorbé)\n\r&#13;Vitesse de rechargement du bouclier (e/sec)\n\r&#13;Quantité d'énergie requise (e/sec)\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Le générateur de Bouclier SD est capable de\n\r&#13;générer un bouclier autour de l'objet auquel il est\n\r&#13;\ attaché.\n\r&#13;\n\r&#13;Bien qu'il ne soit pas affecté par le méthode de\n\r&#13;groupement standard, il est affecté par une\n\r&#13;autre méthode de groupement \n\r&#13;\(celle des blocs non liés).\n\r&#13;Ainsi deux boucliers cote à cote fourniront la\n\r&#13;même protection que deux boucliers séparés.\n\r&#13;\n\r&#13;En plaçant plus d'un bouclier, vous disposerez\n\r&#13;des avantages suivants :\n\r&#13;\n\r&#13;Charge du bouclier (Dommage total absorbé)\n\r&#13;Vitesse de rechargement du bouclier (e/sec)\n\r&#13;Quantité d'énergie requise (e/sec)\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <FullName>Ordinateur de Dispersion Anti-matière SchemaDyne</FullName>
 <Animated>true</Animated>
 <Armour>0</Armour>
@@ -1869,7 +1869,7 @@
 <SDCockpit icon="24" name="Poste de Pilotage SD" textureId="128" type="COCKPIT_ID">
 <IndividualSides>6</IndividualSides>
 <Price>700</Price>
-<Description>Ce poste de pilotage vous offre un nouveau point de vue, ainsi\n\r&#13;que la possibilité d'avoir des systèmes indépendants du\n\r&#13;coeur. Le poste se connecte automatiquement au\n\r&#13;Coeur du Vaisseau dès que placé.\n\r&#13;\n\r&#13;Pour changer de point de vue, vous pouvez utiliser les\n\r&#13;flèches directionnelles.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Ce poste de pilotage vous offre un nouveau point de vue,\n\r&#13;ainsi que la possibilité d'avoir des systèmes\n\r&#13;indépendants du coeur. Le poste se connecte\n\r&#13;automatiquement au Coeur du Vaisseau dès que placé.\n\r&#13;\n\r&#13;Pour changer de point de vue, vous pouvez utiliser les\n\r&#13;flèches directionnelles.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <FullName>Poste de Pilotage SchemaDyne Assis'et'Tais-toi (TM)</FullName>
 <Animated>false</Animated>
 <Armour>30</Armour>
@@ -1888,7 +1888,7 @@
 <BOBBYAIModule icon="37" name="Module d'IA Bobby" textureId="96" type="AI_ELEMENT">
 <IndividualSides>6</IndividualSides>
 <Price>699</Price>
-<Description>Le module d'IA Bobby est capable de\n\r&#13;fournir une automatisation basique. Très utile pour\n\r&#13;les tourelles, ainsi que pour quelques autres\n\r&#13;utilisation,\n\r&#13;\n\r&#13;il peut être configuré en ouvrant votre menu (Inventaire,\n\r&#13;Armes, Magasin, Navigation), et en cherchant le bouton de configuration d'IA\n\r&#13;en bas à droite.\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour activer / désactiver.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Le module d'IA Bobby est capable de\n\r&#13;fournir une automatisation basique. Il est très utile \n\r&#13;pour les tourelles, ainsi que pour quelques autres\n\r&#13;utilisations,\n\r&#13;il peut être configuré en ouvrant votre menu \n\r&#13;(Inventaire,\n\r&#13;Armes, Magasin, Navigation), et en cherchant \n\r&#13;le bouton de configuration d'IA en bas à droite.\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour activer / désactiver.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <FullName>Unité de contrôle du vaisseau Bobby par Dr. Plex.</FullName>
 <Animated>false</Animated>
 <Armour>0</Armour>
@@ -1907,7 +1907,7 @@
 <PowersupplyBeamComputer icon="277" name="Ordinateur de Transfert d'Énergie" textureId="102" type="POWER_SUPPLY_BEAM_COMPUTER">
 <IndividualSides>6</IndividualSides>
 <Price>100</Price>
-<Description>Un controlleur pour les rayons transférant\n\r&#13;l'énergie du vaisseau vers d'autres structures\n\r&#13;\n\r&#13;Ce rayon ne peut être bloqué par des boucliers,\n\r&#13; et agit quelque soit l'élement du vaisseau pris pour cible.</Description>
+<Description>Un controlleur pour les rayons transférant\n\r&#13;l'énergie du vaisseau vers d'autres structures\n\r&#13;\n\r&#13;Ce rayon ne peut être bloqué par des boucliers et\n\r&#13; agit quelque soit l'élement du vaisseau pris pour cible.</Description>
 <ControlledBy>
 <Element>CORE_ID</Element>
 </ControlledBy>
@@ -1952,7 +1952,7 @@
 <PowerdrainBeamComputer icon="279" name="Ordinateur de drainage" textureId="112" type="POWER_DRAIN_BEAM_COMPUTER">
 <IndividualSides>6</IndividualSides>
 <Price>100</Price>
-<Description>Un controlleur pour les rayons \n\r&#13;transférant l'énergie d'autres structures à votre vaisseau.\n\r&#13;\n\r&#13;ce rayon ne peut être bloqué par des boucliers,\n\r&#13;mais ne peut agir que si des\n\r&#13;modules d'énergie sont pris pour cible.</Description>
+<Description>Un controlleur pour les rayons transférant\n\r&#13;l'énergie d'autres structures à votre vaisseau.\n\r&#13;\n\r&#13;Ce rayon ne peut être bloqué par des boucliers, mais\n\r&#13;ne peut agir que si des modules d'énergie\n\r&#13;sont pris pour cible.</Description>
 <ControlledBy>
 <Element>CORE_ID</Element>
 </ControlledBy>
@@ -1999,7 +1999,7 @@
 <FactoryInput icon="157" name="Entrée de Fabrique" textureId="263" type="FACTORY_INPUT_ID">
 <IndividualSides>3</IndividualSides>
 <Price>1000</Price>
-<Description>Ce bloc peut être connecté à une autre\n\r&#13;Fabrique (Presse Moléculaire, Schemadyne Avancée,\n\r&#13;etc.) pour permettre la production de certains blocs\n\r&#13;suivant la recette.\n\r&#13;\n\r&#13;La liaison se fait en sélectionnant un bloc\n\r&#13;avec C, et ensuite en appuyant sur V en regardant l'autre Fabrique. Il faut \n\r&#13;ensuite faire la même chose dans l'autre\n\r&#13;sens. Ainsi, nous créeons un lien bi-diemmensionnel. Exemple en 5\n\r&#13;étapes :\n\r&#13;\n\r&#13;1. Entrée de Fabrique (C pour sélectionner)\n\r&#13;2. Schemadyne Avancée (V pour connecter)\n\r&#13;3. Entrée de Fabrique (C pour désélectionner)\n\r&#13;4. Schemadyne Avancée (C pour sélectionner)\n\r&#13;5. Entrée de la Fabrique (V pour connecter)\n\r&#13;\n\r&#13;Souvenez vous que cela est fait en\n\r&#13;regardant les différents blocs.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Ce bloc peut être connecté à une autre\n\r&#13;Fabrique (Presse Moléculaire, Schemadyne Avancée,\n\r&#13;etc.) pour permettre la production de certains blocs.\n\r&#13;\n\r&#13;La liaison se fait en sélectionnant un bloc avec C\n\r&#13;et ensuite en appuyant sur V en regardant l'autre\n\r&#13; Fabrique. Il faut ensuite faire la même chose dans l'autre\n\r&#13;sens. Ainsi, nous créeons un lien bi-diemmensionnel. \n\r&#13;\n\r&#13;Exemple en 5étapes :\n\r&#13;\n\r&#13;1. Entrée de Fabrique (C pour sélectionner)\n\r&#13;2. Schemadyne Avancée (V pour connecter)\n\r&#13;3. Entrée de Fabrique (C pour désélectionner)\n\r&#13;4. Schemadyne Avancée (C pour sélectionner)\n\r&#13;5. Entrée de la Fabrique (V pour connecter)\n\r&#13;\n\r&#13;Souvenez vous que cela est fait en\n\r&#13;regardant les différents blocs.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <FullName>Entrée de Fabrique</FullName>
 <ControlledBy/>
 <Controlling>
@@ -2023,7 +2023,7 @@
 <FactoryInputEnhancer icon="158" name="Amélioration de l'Entrée de Fabrique" textureId="279" type="FACTORY_INPUT_ENH_ID">
 <IndividualSides>3</IndividualSides>
 <Price>250</Price>
-<Description>Cette amélioration est capable de doubler\n\r&#13;la vitesse de n'importe quelle fabrique\n\r&#13;(Presse à particule, SchemaDyne avancée, etc.) a laquelle\n\r&#13;elle est connectée. Pour la connecter, séléctionnez\n\r&#13;la Fabrique en question et ensuite regardez\n\r&#13;l'Amélioration et appuyez sur V. Ou sélectionnez\n\r&#13;la Fabrique en premier, et placez ensuite l'Amélioration.\n\r&#13;\n\r&#13;Un cycle de production dure cinq secondes. Ainsi, cette\n\r&#13;amélioration ajoute un nouveau cycle pendant \n\r&#13;les cinq secondes. Notez que cela ne veut pas dire que vous\n\r&#13;obtenez plus de vos matériaux. Vous en obtenez plus PAR\n\r&#13;cycle de cinq secondes. Vous pouvez placer\n\r&#13;autant d'Aémlioration que vous le voulez. \n\r&#13;Veuillez juste à avoir suffisament de matériel en entrée.\n\r&#13; Sinon, rien ne se passera.\n\r&#13; Voici un exemple : \n\r&#13;\n\r&#13;Recette de la Presse Moléculaire\n\r&#13;Yhole x20 --&gt; Noyau de Yhole x1\n\r&#13;\n\r&#13;Sans amélioration:\n\r&#13;Cinq secondes = Yhole x20 --&gt; Noyau de Yhole x1\n\r&#13;\n\r&#13;Avec cinq amélioration connectée:\n\r&#13;Cinq secondes = Yhole x100 ---&gt; Noyau de Yhole x10\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Cette amélioration est capable de doubler\n\r&#13;la vitesse de n'importe quelle fabrique\n\r&#13;(Presse à particule, SchemaDyne avancée, etc.) a \n\r&#13;llaquelle elle est connectée. Pour la connecter,\n\r&#13;séléctionnez la Fabrique en question et ensuite\n\r&#13;regardez l'Amélioration et appuyez sur V. Ou\n\r&#13;sélectionnez la Fabrique en premier, et placez \n\r&#13;ensuite l'Amélioration.\n\r&#13;\n\r&#13;Un cycle de production dure cinq secondes. Ainsi, \n\r&#13;cette amélioration ajoute un nouveau cycle pendant \n\r&#13;les cinq secondes. Notez que cela ne veut pas dire\n\r&#13;que vous obtenez plus de vos matériaux. Vous en \n\r&#13;obtenez plus PAR cycle de cinq secondes. \n\r&#13;Vous pouvez placer autant d'Amélioration que vous\n\r&#13;le voulez. Veuillez juste à avoir suffisament de \n\r&#13; matériel en entrée. Sinon, rien ne se passera.\n\r&#13;Voici un exemple : \n\r&#13;\n\r&#13;Recette de la Presse Moléculaire\n\r&#13;Yhole x20 --&gt; Noyau de Yhole x1\n\r&#13;\n\r&#13;Sans amélioration:\n\r&#13;Cinq secondes = Yhole x20 --&gt; Noyau de Yhole x1\n\r&#13;\n\r&#13;Avec cinq amélioration connectée:\n\r&#13;Cinq secondes = Yhole x100 ---&gt; Noyau de Yhole x10\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <FullName>Amélioration de l'Entrée de Fabrique</FullName>
 <ControlledBy>
 <Element>FACTORY_SDADV</Element>
@@ -4190,7 +4190,7 @@
 <GREENPAINT icon="183" name="Peinture Verte" textureId="310" type="MAN_GREEN">
 <IndividualSides>1</IndividualSides>
 <Price>250</Price>
-<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en vert\n\r&#13;,si utilisée dans la bonne fabrique.</Description>
+<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en vert,\n\r&#13;si utilisée dans la bonne fabrique.</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -4208,7 +4208,7 @@
 <WHITEPAINT icon="184" name="Peinture Blanche" textureId="358" type="MAN_WHITE">
 <IndividualSides>1</IndividualSides>
 <Price>250</Price>
-<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en blanc\n\r&#13;,si utilisée dans la bonne fabrique.</Description>
+<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en blanc,\n\r&#13;si utilisée dans la bonne fabrique.</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -4226,7 +4226,7 @@
 <YELLOWPAINT icon="185" name="Peinture Jaune" textureId="326" type="MAN_YELLOW">
 <IndividualSides>1</IndividualSides>
 <Price>250</Price>
-<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en jaune\n\r&#13;,si utilisée dans la bonne fabrique.</Description>
+<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en jaune,\n\r&#13;si utilisée dans la bonne fabrique.</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -4244,7 +4244,7 @@
 <BLUEPAINT icon="186" name="Peinture Bleue" textureId="374" type="MAN_BLUE">
 <IndividualSides>1</IndividualSides>
 <Price>250</Price>
-<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en bleu\n\r&#13;,si utilisée dans la bonne fabrique.</Description>
+<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en bleu,\n\r&#13;si utilisée dans la bonne fabrique.</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -4262,7 +4262,7 @@
 <REDPAINT icon="187" name="Peinture Rouge" textureId="262" type="MAN_RED">
 <IndividualSides>1</IndividualSides>
 <Price>250</Price>
-<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en rouge\n\r&#13;,si utilisée dans la bonne fabrique.</Description>
+<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en rouge,\n\r&#13;si utilisée dans la bonne fabrique.</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -4280,7 +4280,7 @@
 <BROWNPAINT icon="188" name="Peinture Marron" textureId="294" type="MAN_BROWN">
 <IndividualSides>1</IndividualSides>
 <Price>250</Price>
-<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en marron\n\r&#13;,si utilisée dans la bonne fabrique.</Description>
+<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en marron,\n\r&#13;si utilisée dans la bonne fabrique.</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -4298,7 +4298,7 @@
 <BLACKPAINT icon="189" name="Peinture Noire" textureId="342" type="MAN_BLACK">
 <IndividualSides>1</IndividualSides>
 <Price>250</Price>
-<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en noire\n\r&#13;,si utilisée dans la bonne fabrique.</Description>
+<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour peindre la coque en noire,\n\r&#13;si utilisée dans la bonne fabrique.</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -4316,7 +4316,7 @@
 <PURPLEPAINT icon="190" name="Peinture violette" textureId="278" type="MAN_PURP">
 <IndividualSides>1</IndividualSides>
 <Price>250</Price>
-<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour pendre la coque en violet\n\r&#13;,si utilisée dans la bonne fabrique.</Description>
+<Description>Un objet utilisé dans différentes recettes.\n\r&#13;\n\r&#13;Peut être utilisée pour pendre la coque en violet,\n\r&#13;si utilisée dans la bonne fabrique.</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -4475,7 +4475,7 @@
 <BlockStyle>3</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </YHOLENUCLEUS>
-<GLASSBOTTLE icon="217" name="GLASS BOTTLE" textureId="358" type="MAN_GLASS_BOTTLE">
+<GLASSBOTTLE icon="217" name="Bouteille" textureId="358" type="MAN_GLASS_BOTTLE">
 <IndividualSides>1</IndividualSides>
 <Price>100</Price>
 <Description>Un objet utilisé dans différentes recettes.</Description>
@@ -4535,8 +4535,8 @@
 <PlexLifter icon="39" name="Ascenseur Plex" textureId="240" type="LIFT_ELEMENT">
 <IndividualSides>3</IndividualSides>
 <Price>700</Price>
-<Description>L'ascenseur Plex permet de créer des élévateurs\n\r&#13;dans les grandes stations spatiales ou dans certaines vaisseaux.\n\r&#13;Ils sont particulièrement utile en combinaison avec un Simulateur de Gravité.\n\r&#13;Tout comme les portes Plex, il est possible d'en construire de plus\n\r&#13;grand en plaçant plusieurs blocs côte à côte..\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour les activer / désactiver.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
-<FullName>Dr.Plex's HyperLifticator</FullName>
+<Description>L'ascenseur Plex permet de créer des élévateurs\n\r&#13;dans les grandes stations spatiales ou dans certains \n\r&#13;vaisseaux. Ils sont particulièrement utile en combinaison\n\r&#13;avec un Simulateur de Gravité. Tout comme les portes Plex, \n\r&#13; il est possible d'en construire de plus grand en plaçant plusieurs\n\r&#13;blocs côte à côte...\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour les activer / désactiver.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<FullName>HyperAscenseur du Dr. Plex</FullName>
 <Animated>true</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -4551,11 +4551,11 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </PlexLifter>
-<PlexUndeathinator icon="40" name="Plex Immortalinator" textureId="12" type="PLAYER_SPAWN_MODULE">
+<PlexUndeathinator icon="40" name="Immortalinator Plex" textureId="12" type="PLAYER_SPAWN_MODULE">
 <IndividualSides>3</IndividualSides>
 <Price>700</Price>
-<Description>Le Plex Immortalinator permet de définir un nouveau\n\r&#13;point de spawn. Pour ce faire, appuyez simplement sur $ACTIVATE\n\r&#13;tout en regardant un Immortalinator. Ils peuvent être trouvés aux magasins, ou\n\r&#13;tout simplement placé sur votre base. Ils n'ont pas étaient conçu\n\r&#13;pour les vaisseaux, utilisaient les a vos propres risques sur ceux-ci !\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
-<FullName>Dr.Plex's Back to Life Unit (Undeathinator)</FullName>
+<Description>Le Plex Immortalinator permet de définir un nouveau\n\r&#13;point de spawn. Pour ce faire, appuyez simplement sur $ACTIVATE\n\r&#13;tout en regardant un Immortalinator. Ils peuvent être \n\r&#13;trouvés aux magasins, ou tout simplement placé sur votre base. \n\r&#13;Ils n'ont pas étaient conçu pour les vaisseaux, utilisaient les \n\r&#13;à vos propres risques sur ceux-ci !\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<FullName>Unité de Retour à la Vie du Dr. Plex</FullName>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -6356,7 +6356,7 @@
 <Ice icon="42" name="Glace" textureId="31" type="TERRAIN_ICE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>1</Price>
-<Description>Il s'agit d'une forme solide l'eau, produite\n\r&#13;par un fort refroidissement.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Il s'agit d'une forme solide l'eau, produite par un fort\n\r&#13;refroidissement de l'environnement.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -6374,7 +6374,7 @@
 <Lava icon="43" name="Lave" textureId="172" type="TERRAIN_LAVA_ID">
 <IndividualSides>1</IndividualSides>
 <Price>1</Price>
-<Description>Ceci est une forme liquide et fondue de la roche.\n\r&#13; La lave émet une lumière rougeâtre.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Ceci est une forme liquide et fondue de la roche.\n\r&#13;La lave émet une lumière rougeâtre.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <Animated>true</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -6428,7 +6428,7 @@
 <Soil icon="46" name="Terre" textureId="28" type="TERRAIN_DIRT_ID">
 <IndividualSides>1</IndividualSides>
 <Price>1</Price>
-<Description>Ceci est la portion d'un objet naturel composée\n\r&#13;de différents matériaux oraniques décomposés\n\r&#13;et de minéraux de différentes compositions.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Ceci est la portion d'un objet naturel composée de\n\r&#13;différents matériaux organiques décomposés et de\n\r&#13;minéraux de différentes compositions.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -6824,7 +6824,7 @@
 <Yhole icon="148" name="Yhole" textureId="249" type="TERRAIN_YHOLE_SPRITE">
 <IndividualSides>1</IndividualSides>
 <Price>10</Price>
-<Description>Une plante étrange pouvant être raffiné dans la bonne fabrique.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;\n\r&#13;</Description>
+<Description>Une plante étrange pouvant être raffiné dans la bonne\n\r&#13;fabrique.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>true</Transparency>
@@ -6842,7 +6842,7 @@
 <DirtGrassPlanetTerrain icon="149" name="TErrain de planète Bleue" textureId="28" type="TERRAIN_EARTH_TOP_DIRT">
 <IndividualSides>3</IndividualSides>
 <Price>1</Price>
-<Description>Ceci est une portion d'un objet\n\r&#13;fait de matériaux organiques décomposés\n\r&#13;et de minéraux de différentes compositions.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Ceci est une portion d'un objet fait de\n\r&#13;matériaux organiques décomposés et de minéraux\n\r&#13;de différentes compositions.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -6896,7 +6896,7 @@
 <RedDirt icon="152" name="Terre Rouge" textureId="76" type="TERRAIN_MARS_DIRT">
 <IndividualSides>1</IndividualSides>
 <Price>1</Price>
-<Description>Ceci est une portion d'un matériau constitué\n\r&#13;dd'éléments organiques décomposés et de\n\r&#13;différents minéraux.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Ceci est une portion d'un matériau constitué\n\r&#13;d'éléments organiques décomposés et de\n\r&#13;différents minéraux.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -6914,7 +6914,7 @@
 <Wood icon="153" name="Bois" textureId="25" type="TERRAIN_TREE_TRUNK_ID">
 <IndividualSides>3</IndividualSides>
 <Price>200</Price>
-<Description>Le bois est la substance solide et fibreuse\n\r&#13;composant la plupart des troncs et des buissons. Il est\n\r&#13;couramment utilisé pour la construction d'habitations sur les planètes bleues.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Le bois est la substance solide et fibreuse\n\r&#13;composant la plupart des troncs et des buissons. Il est\n\r&#13;couramment utilisé pour la construction d'habitations sur \n\r&#13;les planètes bleues.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -6932,7 +6932,7 @@
 <Foliage icon="154" name="Feuillage" textureId="47" type="TERRAIN_TREE_LEAF_ID">
 <IndividualSides>1</IndividualSides>
 <Price>100</Price>
-<Description>Un feuillage est constitué d'un ensebme de feuilles de plantes.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Un feuillage est constitué d'un ensemble de feuilles \n\r&#13;d'une plante.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>true</Transparency>
@@ -6986,7 +6986,7 @@
 <ICEPLANETROCK icon="221" name="Pierre de planète gélée" textureId="9" type="TERRAIN_ICEPLANET_ROCK">
 <IndividualSides>1</IndividualSides>
 <Price>100</Price>
-<Description>Une pierre provenant des profondeurs des planètes gélées.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Une pierre provenant des profondeurs des planètes \n\r&#13;gélées.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -7109,10 +7109,10 @@
 <BlockStyle>3</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </ICEGRASS>
-<IceCrystal icon="232" name="Crystal de Glace" textureId="95" type="TERRAIN_ICEPLANET_CRYSTAL">
+<IceCrystal icon="232" name="Cristal de Glace" textureId="95" type="TERRAIN_ICEPLANET_CRYSTAL">
 <IndividualSides>1</IndividualSides>
 <Price>500</Price>
-<Description>Un crystal fait de glace.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Un cristal fait de glace.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
