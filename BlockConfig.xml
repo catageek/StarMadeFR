@@ -5,7 +5,7 @@
 <GreyHull icon="25" name="Coque Grise" textureId="16" type="HULL_COLOR_GREY_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -20,10 +20,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </GreyHull>
-<GreyHullWedge icon="253" name="Coque Grise, Calle" textureId="16" type="HULL_COLOR_WEDGE_GREY_ID">
+<GreyHullWedge icon="253" name="Coque Grise, Arête" textureId="16" type="HULL_COLOR_WEDGE_GREY_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -41,7 +41,7 @@
 <GreyHullCorner icon="254" name="Coque Grise, Coin" textureId="16" type="HULL_COLOR_CORNER_GREY_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -56,10 +56,10 @@
 <BlockStyle>2</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </GreyHullCorner>
-<WhiteHull icon="26" name="Coque Blanc" textureId="24" type="HULL_COLOR_WHITE_ID">
+<WhiteHull icon="26" name="Coque Blanche" textureId="24" type="HULL_COLOR_WHITE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -74,10 +74,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </WhiteHull>
-<WhiteHullWedge icon="255" name="Coque Blanc, Calle" textureId="24" type="HULL_COLOR_WEDGE_WHITE_ID">
+<WhiteHullWedge icon="255" name="Coque Blanche, Arête" textureId="24" type="HULL_COLOR_WEDGE_WHITE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -92,10 +92,10 @@
 <BlockStyle>1</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </WhiteHullWedge>
-<WhiteHullCorner icon="238" name="Coque Blanc, Coin" textureId="24" type="HULL_COLOR_CORNER_WHITE_ID">
+<WhiteHullCorner icon="238" name="Coque Blanche, Coin" textureId="24" type="HULL_COLOR_CORNER_WHITE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -113,7 +113,7 @@
 <BlackHull icon="27" name="Coque Noire" textureId="17" type="HULL_COLOR_BLACK_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -128,10 +128,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>0.1,0.1,0.1</LightSourceColor>
 </BlackHull>
-<BlackHullWedge icon="239" name="Coque Noire, Calle" textureId="17" type="HULL_COLOR_WEDGE_BLACK_ID">
+<BlackHullWedge icon="239" name="Coque Noire, Arête" textureId="17" type="HULL_COLOR_WEDGE_BLACK_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -149,7 +149,7 @@
 <BlackHullCorner icon="240" name="Coque Noire, Coin" textureId="17" type="HULL_COLOR_CORNER_BLACK_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -167,7 +167,7 @@
 <RedHull icon="28" name="Coque Rouge" textureId="18" type="HULL_COLOR_RED_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -182,10 +182,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>0.1,0.1,0.1</LightSourceColor>
 </RedHull>
-<RedHullWedge icon="241" name="Coque Rouge, Calle" textureId="18" type="HULL_COLOR_WEDGE_RED_ID">
+<RedHullWedge icon="241" name="Coque Rouge, Arête" textureId="18" type="HULL_COLOR_WEDGE_RED_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -203,7 +203,7 @@
 <RedHullCorner icon="242" name="Coque Rouge, Coin" textureId="18" type="HULL_COLOR_CORNER_RED_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -221,7 +221,7 @@
 <BlueHull icon="29" name="Coque Bleue" textureId="20" type="HULL_COLOR_BLUE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -236,10 +236,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </BlueHull>
-<BlueHullWedge icon="243" name="Coque Bleue, Calle" textureId="20" type="HULL_COLOR_WEDGE_BLUE_ID">
+<BlueHullWedge icon="243" name="Coque Bleue, Arête" textureId="20" type="HULL_COLOR_WEDGE_BLUE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -257,7 +257,7 @@
 <BlueHullCorner icon="244" name="Coque Bleue, Coin" textureId="20" type="HULL_COLOR_CORNER_BLUE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -275,7 +275,7 @@
 <YellowHull icon="30" name="Coque Jaune" textureId="23" type="HULL_COLOR_YELLOW_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -290,10 +290,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </YellowHull>
-<YellowHullWedge icon="245" name="Coque Jaune, Calle" textureId="23" type="HULL_COLOR_WEDGE_YELLOW_ID">
+<YellowHullWedge icon="245" name="Coque Jaune, Arête" textureId="23" type="HULL_COLOR_WEDGE_YELLOW_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -311,7 +311,7 @@
 <YellowHullCorner icon="246" name="Coque Jaune, Coin" textureId="23" type="HULL_COLOR_CORNER_YELLOW_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -329,7 +329,7 @@
 <GreenHull icon="31" name="Coque Verte" textureId="21" type="HULL_COLOR_GREEN_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -344,10 +344,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </GreenHull>
-<GreenHullWedge icon="247" name="Coque Verte, Calle" textureId="21" type="HULL_COLOR_WEDGE_GREEN_ID">
+<GreenHullWedge icon="247" name="Coque Verte, Arête" textureId="21" type="HULL_COLOR_WEDGE_GREEN_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -365,7 +365,7 @@
 <GreenHullCorner icon="248" name="Coque Verte, Coin" textureId="21" type="HULL_COLOR_CORNER_GREEN_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -380,10 +380,10 @@
 <BlockStyle>2</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </GreenHullCorner>
-<BrownHull icon="32" name="Coque Marronne" textureId="22" type="HULL_COLOR_BROWN_ID">
+<BrownHull icon="32" name="Coque Marron" textureId="22" type="HULL_COLOR_BROWN_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -398,10 +398,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </BrownHull>
-<BrownHullWedge icon="249" name="Coque Marronne, Calle" textureId="22" type="HULL_COLOR_WEDGE_BROWN_ID">
+<BrownHullWedge icon="249" name="Coque Marron, Arête" textureId="22" type="HULL_COLOR_WEDGE_BROWN_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -416,10 +416,10 @@
 <BlockStyle>1</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </BrownHullWedge>
-<BrownHullCorner icon="250" name="Coque Marronne, Coin" textureId="22" type="HULL_COLOR_CORNER_BROWN_ID">
+<BrownHullCorner icon="250" name="Coque Marron, Coin" textureId="22" type="HULL_COLOR_CORNER_BROWN_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -437,7 +437,7 @@
 <PurpleHull icon="33" name="Coque Violette" textureId="19" type="HULL_COLOR_PURPLE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -452,10 +452,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>0.1,0.1,0.1</LightSourceColor>
 </PurpleHull>
-<PurpleHullWedge icon="251" name="Coque Violette, Calle" textureId="19" type="HULL_COLOR_WEDGE_PURPLE_ID">
+<PurpleHullWedge icon="251" name="Coque Violette, Arête" textureId="19" type="HULL_COLOR_WEDGE_PURPLE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -473,7 +473,7 @@
 <PurpleHullCorner icon="252" name="Coque Violette, Coin" textureId="19" type="HULL_COLOR_CORNER_PURPLE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>125</Price>
-<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
+<Description>Une simple coque.\n\r&#13;\n\r&#13;Cette coque offre une protection de base contre les\n\r&#13;projectiles.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>25</Armour>
 <Transparency>false</Transparency>
@@ -507,7 +507,7 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </GlassPlextanium>
-<GlassWedgePlextanium icon="256" name="Verre (Plextanium), Calle" textureId="236" type="GLASS_WEDGE_ID">
+<GlassWedgePlextanium icon="256" name="Verre (Plextanium), Arête" textureId="236" type="GLASS_WEDGE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>500</Price>
 <Description>Verre fabriqué à partir de Plextanium. Il peut supporter la\n\r&#13;même punition que les coques de base, ce qui signifie\n\r&#13;qu'il est utile pour créer des zones où la visibilité est tout\n\r&#13;aussi primordiale que la survie.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
@@ -548,7 +548,7 @@
 <HardenedHullRed icon="208" name="Coque Rouge Blindée" textureId="2" type="POWERHULL_COLOR_RED">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -563,10 +563,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,0.0,0.2</LightSourceColor>
 </HardenedHullRed>
-<HardenedHullRedWedge icon="258" name="Coque Rouge Blindée, Calle" textureId="2" type="POWERHULL_COLOR_WEDGE_RED">
+<HardenedHullRedWedge icon="258" name="Coque Rouge Blindée, Arête" textureId="2" type="POWERHULL_COLOR_WEDGE_RED">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -584,7 +584,7 @@
 <HardenedHullRedCorner icon="259" name="Coque Rouge Blindée, Coin" textureId="2" type="POWERHULL_COLOR_CORNER_RED">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -602,7 +602,7 @@
 <HardenedHullPurple icon="209" name="Coque Violette Blindée" textureId="3" type="POWERHULL_COLOR_PURPLE">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -617,10 +617,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,0.0,1.0</LightSourceColor>
 </HardenedHullPurple>
-<HardenedHullWedgePurple icon="260" name="Coque Violette Blindée, Calle" textureId="3" type="POWERHULL_COLOR_WEDGE_PURPLE">
+<HardenedHullWedgePurple icon="260" name="Coque Violette Blindée, Arête" textureId="3" type="POWERHULL_COLOR_WEDGE_PURPLE">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -638,7 +638,7 @@
 <HardenedHullCornerPurple icon="261" name="Coque Violette Blindée, Coin" textureId="3" type="POWERHULL_COLOR_CORNER_PURPLE">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -656,7 +656,7 @@
 <HardenedHullGreen icon="210" name="Coque Verte Blindée" textureId="5" type="POWERHULL_COLOR_GREEN">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -671,10 +671,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>0.2,1.0,0.2</LightSourceColor>
 </HardenedHullGreen>
-<HardenedHullGreenWedge icon="262" name="Coque Verte Blindée, Calle" textureId="5" type="POWERHULL_COLOR_WEDGE_GREEN">
+<HardenedHullGreenWedge icon="262" name="Coque Verte Blindée, Arête" textureId="5" type="POWERHULL_COLOR_WEDGE_GREEN">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -692,7 +692,7 @@
 <HardenedHullGreenCorner icon="263" name="Coque Verte Blindée, Coin" textureId="5" type="POWERHULL_COLOR_CORNER_GREEN">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -710,7 +710,7 @@
 <HardenedHullBlack icon="211" name="Coque Noire Blindée" textureId="1" type="POWERHULL_COLOR_BLACK">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -725,10 +725,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>0.6,0.6,0.6</LightSourceColor>
 </HardenedHullBlack>
-<HardenedHullWedgeBlack icon="264" name="Coque Noire Blindée, Calle" textureId="1" type="POWERHULL_COLOR_WEDGE_BLACK">
+<HardenedHullWedgeBlack icon="264" name="Coque Noire Blindée, Arête" textureId="1" type="POWERHULL_COLOR_WEDGE_BLACK">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -746,7 +746,7 @@
 <HardenedHullCornerBlack icon="265" name="Coque Noire Blindée, Coin" textureId="1" type="POWERHULL_COLOR_CORNER_BLACK">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -764,7 +764,7 @@
 <HardenedHullYellow icon="212" name="Coque Jaune Blindée" textureId="7" type="POWERHULL_COLOR_GOLD">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -779,10 +779,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,1.0,0.0</LightSourceColor>
 </HardenedHullYellow>
-<HardenedHullWedgeYellow icon="266" name="Coque Jaune Blindée, Calle" textureId="7" type="POWERHULL_COLOR_WEDGE_GOLD">
+<HardenedHullWedgeYellow icon="266" name="Coque Jaune Blindée, Arête" textureId="7" type="POWERHULL_COLOR_WEDGE_GOLD">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -800,7 +800,7 @@
 <HardenedHullCornerYellow icon="267" name="Coque Jaune Blindée, Coin" textureId="7" type="POWERHULL_COLOR_CORNER_GOLD">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -818,7 +818,7 @@
 <HardenedHullBlue icon="213" name="Coque Bleue Blindée" textureId="4" type="POWERHULL_COLOR_BLUE">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -833,10 +833,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>0.0,0.8,1.0</LightSourceColor>
 </HardenedHullBlue>
-<HardenedHullWedgeBlue icon="268" name="Coque Bleue Blindée, Calle" textureId="4" type="POWERHULL_COLOR_WEDGE_BLUE">
+<HardenedHullWedgeBlue icon="268" name="Coque Bleue Blindée, Arête" textureId="4" type="POWERHULL_COLOR_WEDGE_BLUE">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -854,7 +854,7 @@
 <HardenedHullCornerBlue icon="269" name="Coque Bleue Blindée, Coin" textureId="4" type="POWERHULL_COLOR_CORNER_BLUE">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -872,7 +872,7 @@
 <HardenedHullWhite icon="214" name="Coque Blanche Blindée" textureId="8" type="POWERHULL_COLOR_WHITE">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -887,10 +887,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </HardenedHullWhite>
-<HardenedHullWedgeWhite icon="270" name="Coque Blanche Blindée, Calle" textureId="8" type="POWERHULL_COLOR_WEDGE_WHITE">
+<HardenedHullWedgeWhite icon="270" name="Coque Blanche Blindée, Arête" textureId="8" type="POWERHULL_COLOR_WEDGE_WHITE">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -908,7 +908,7 @@
 <HardenedHullCornerWhite icon="271" name="Coque Blanche Blindée, Coin" textureId="8" type="POWERHULL_COLOR_CORNER_WHITE">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -926,7 +926,7 @@
 <HardenedHullGrey icon="215" name="Coque Grise Blindée" textureId="0" type="POWERHULL_COLOR_GREY">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -941,10 +941,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>0.8,0.8,1.0</LightSourceColor>
 </HardenedHullGrey>
-<HardenedHullWedgeGrey icon="272" name="Coque Grise Blindée, Calle" textureId="0" type="POWERHULL_COLOR_WEDGE_GREY">
+<HardenedHullWedgeGrey icon="272" name="Coque Grise Blindée, Arête" textureId="0" type="POWERHULL_COLOR_WEDGE_GREY">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -962,7 +962,7 @@
 <HardenedHullCornerGrey icon="273" name="Coque Grise Blindée, Coin" textureId="0" type="POWERHULL_COLOR_CORNER_GREY">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -977,10 +977,10 @@
 <BlockStyle>2</BlockStyle>
 <LightSourceColor>0.8,0.8,1.0</LightSourceColor>
 </HardenedHullCornerGrey>
-<HardenedHullBrown icon="216" name="Coque Marronne Blindée" textureId="6" type="POWERHULL_COLOR_BROWN">
+<HardenedHullBrown icon="216" name="Coque Marron Blindée" textureId="6" type="POWERHULL_COLOR_BROWN">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -995,10 +995,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,0.8,0.4</LightSourceColor>
 </HardenedHullBrown>
-<HardenedHullWedgeBrown icon="274" name="Coque Marrone Blindée, Calle" textureId="6" type="POWERHULL_COLOR_WEDGE_BROWN">
+<HardenedHullWedgeBrown icon="274" name="Coque Marron Blindée, Arête" textureId="6" type="POWERHULL_COLOR_WEDGE_BROWN">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -1013,10 +1013,10 @@
 <BlockStyle>1</BlockStyle>
 <LightSourceColor>1.0,0.8,0.4</LightSourceColor>
 </HardenedHullWedgeBrown>
-<HardenedHullCornerBrown icon="275" name="Coque Marronne Blindée, Coin" textureId="6" type="POWERHULL_COLOR_CORNER_BROWN">
+<HardenedHullCornerBrown icon="275" name="Coque Marron Blindée, Coin" textureId="6" type="POWERHULL_COLOR_CORNER_BROWN">
 <IndividualSides>1</IndividualSides>
 <Price>1500</Price>
-<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elles offrent $ARMOUR% Armure et $HP Points de Vie.</Description>
+<Description>Une coque Blindée.\n\r&#13;\n\r&#13;Une coque Blindée offre une meilleure protection pour un\n\r&#13;prix plus élevé.\n\r&#13;Elle offre $ARMOUR% Armure et $HP Points de Vie.</Description>
 <Animated>false</Animated>
 <Armour>50</Armour>
 <Transparency>false</Transparency>
@@ -1057,7 +1057,7 @@
 <DockingEnhancer icon="236" name="Amplificateur d'Arrimage" textureId="188" type="FIXED_DOCK_ID_ENHANCER">
 <IndividualSides>1</IndividualSides>
 <Price>100</Price>
-<Description>L'Amplificateur d'Arrimage peut être utilisé pour\n\r&#13;augmenter la taille de la Zone d'Arrimage créée par\n\r&#13;un Module d'Arrimage.\n\r&#13;\n\r&#13;Pour l'utiliser, vous devez simplement le\n\r&#13;connecter au Module d'Arrimage à qui vous voulez\n\r&#13;augmenter la taille de la Zone d'Arrimage en \n\r&#13;sélectionnant le module avec C, et puis en utilisant V\n\r&#13;pour connecter chaque Amplificateur.\n\r&#13;Comme avec les armes, et d'autres blocs, ce sont\n\r&#13;des blocs qui peuvent être connectés. Les\n\r&#13;Amplificateurs d'Arrimage n'ont pas besoin d'être\n\r&#13;adjacents au\n\r&#13;Module d'Arrimage.\n\r&#13;\n\r&#13;Alternativement, vous pouvez placer un Module\n\r&#13;d'Arrimage, le selectionner avec C, et ensuite\n\r&#13;chaque Amplifcateur d'Arrimage que vous placerez à\n\r&#13;la suite sera automatiquement connecté au\n\r&#13;Module.\n\r&#13;\n\r&#13;A cette date, il n'y a aucune utilité\n\r&#13;a orienter les Amplificateurs d'Arrimage, car ils\n\r&#13;augmentent la taille de la Zone d'Arrimage tout\n\r&#13;autour, peu importe leur orientation,  ou où ils sont\n\r&#13;placés en corrolation avec le Module.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
+<Description>L'Amplificateur d'Arrimage peut être utilisé pour\n\r&#13;augmenter la taille de la Zone d'Arrimage créée par\n\r&#13;un Module d'Arrimage.\n\r&#13;\n\r&#13;Pour l'utiliser, vous devez simplement le\n\r&#13;connecter au Module d'Arrimage dont vous voulez\n\r&#13;augmenter la taille de la Zone d'Arrimage en \n\r&#13;sélectionnant le module avec C, et puis en utilisant V\n\r&#13;pour connecter chaque Amplificateur.\n\r&#13;Comme avec les armes, et d'autres blocs, ce sont\n\r&#13;des blocs qui peuvent être connectés. Les\n\r&#13;Amplificateurs d'Arrimage n'ont pas besoin d'être\n\r&#13;adjacents au\n\r&#13;Module d'Arrimage.\n\r&#13;\n\r&#13;Alternativement, vous pouvez placer un Module\n\r&#13;d'Arrimage, le selectionner avec C, et ensuite\n\r&#13;chaque Amplifcateur d'Arrimage que vous placerez à\n\r&#13;la suite sera automatiquement connecté au\n\r&#13;Module.\n\r&#13;\n\r&#13;A cette date, il n'y a aucune utilité\n\r&#13;a orienter les Amplificateurs d'Arrimage, car ils\n\r&#13;augmentent la taille de la Zone d'Arrimage tout\n\r&#13;autour, peu importe leur orientation,  ou où ils sont\n\r&#13;placés par rapport au Module.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
 <ControlledBy>
 <Element>FIXED_DOCK_ID</Element>
 </ControlledBy>
@@ -1099,7 +1099,7 @@
 <TurretDockingEnhancerUnit icon="22" name="Unité d'Amplification d'Arrimage de Tourelle" textureId="204" type="DOCKING_ENHANCER_ID">
 <IndividualSides>1</IndividualSides>
 <Price>400</Price>
-<Description>L'Unité d'Amplification d'Arrimage de Tourelle\n\r&#13;peut être utilisé pour l'Unité d'Arrimage de Tourelle,\n\r&#13;tout comme l'Amplificateur d'Arrimage peut être\n\r&#13; utilisé pour le Module d'Arrimage.\n\r&#13;\n\r&#13;  Il permet d'augmenter la taille de la Zone\n\r&#13;d'Arrimage créée par une Unité d'Arrimage de\n\r&#13;Tourelle.\n\r&#13;\n\r&#13;Pour les utiliser, vous devez simplement les\n\r&#13;connecter à l'Unité d'Arrimage de Tourelle à qui vous\n\r&#13;voulez augmenter la taille de la Zone en\n\r&#13;sélectionnant le module avec C, et puis en utilisant V\n\r&#13;pour connecter chaque Amplificateur.\n\r&#13;Comme avec les armes, et d'autres blocs, ce sont\n\r&#13;des blocs qui peuvent être connectés. Les\n\r&#13;Unités d'Amplification d'Arrimage n'ont pas besoin\n\r&#13; d'être adjacents à l'Unité d'Arrimage.\n\r&#13;\n\r&#13;Alternativement, vous pouvez placer une Unité\n\r&#13;d'Arrimage, le selectionner avec C, et ensuite\n\r&#13;chaque Amplifcateur que vous placerez à\n\r&#13;la suite sera automatiquement connecté au\n\r&#13;Module.\n\r&#13;\n\r&#13;A partir de maintenant, il n'y a aucune utilité\n\r&#13;d'orienter les Amplificateurs d'Arrimage, car ils\n\r&#13;augmentent la taille de la Zone d'Arrimage tout\n\r&#13;autour, peu importe leur orientation,  ou où ils sont\n\r&#13;placés en corrolation avec l'Unité.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
+<Description>L'Unité d'Amplification d'Arrimage de Tourelle\n\r&#13;peut être utilisé pour l'Unité d'Arrimage de Tourelle,\n\r&#13;tout comme l'Amplificateur d'Arrimage peut être\n\r&#13; utilisé pour le Module d'Arrimage.\n\r&#13;\n\r&#13;  Il permet d'augmenter la taille de la Zone\n\r&#13;d'Arrimage créée par une Unité d'Arrimage de\n\r&#13;Tourelle.\n\r&#13;\n\r&#13;Pour les utiliser, vous devez simplement les\n\r&#13;connecter à l'Unité d'Arrimage de Tourelle dont vous\n\r&#13;voulez augmenter la taille de la Zone en\n\r&#13;sélectionnant le module avec C, et puis en utilisant V\n\r&#13;pour connecter chaque Amplificateur.\n\r&#13;Comme avec les armes, et d'autres blocs, ce sont\n\r&#13;des blocs qui peuvent être connectés. Les\n\r&#13;Unités d'Amplification d'Arrimage n'ont pas besoin\n\r&#13; d'être adjacents à l'Unité d'Arrimage.\n\r&#13;\n\r&#13;Alternativement, vous pouvez placer une Unité\n\r&#13;d'Arrimage, le selectionner avec C, et ensuite\n\r&#13;chaque Amplifcateur que vous placerez à\n\r&#13;la suite sera automatiquement connecté au\n\r&#13;Module.\n\r&#13;\n\r&#13;A partir de maintenant, il n'y a aucune utilité\n\r&#13;d'orienter les Amplificateurs d'Arrimage, car ils\n\r&#13;augmentent la taille de la Zone d'Arrimage tout\n\r&#13;autour, peu importe leur orientation,  ou où ils sont\n\r&#13;placés par rapport à l'Unité.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
 <ControlledBy>
 <Element>DOCK_ID</Element>
 </ControlledBy>
@@ -1119,10 +1119,10 @@
 </TurretDockingEnhancerUnit>
 </Docking>
 <Light>
-<PlexLight icon="35" name="Lumière Plex" textureId="127" type="LIGHT_ID">
+<PlexLight icon="35" name="LumièrePlex" textureId="127" type="LIGHT_ID">
 <IndividualSides>1</IndividualSides>
 <Price>700</Price>
-<Description>La LumièrePlex émet une source de lumière statique\n\r&#13;quand placée.\n\r&#13;Utile pour l'ilumination intérieure.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
+<Description>La LumièrePlex émet une source de lumière statique\n\r&#13;quand placée.\n\r&#13;Utile pour l'éclairage intérieur.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
 <FullName>La Lumière @EEZ (TM) du Dr. Plex</FullName>
 <Animated>false</Animated>
 <Armour>0</Armour>
@@ -1141,7 +1141,7 @@
 <PlexBeacon icon="36" name="PharePlex" textureId="237" type="LIGHT_BEACON_ID">
 <IndividualSides>1</IndividualSides>
 <Price>800</Price>
-<Description>Le PharePlex émet un faisceau de très forte puissance\n\r&#13;au lieu d'ilumination plate comme la LumièrePlex,\n\r&#13;et est donc mieux placé pour des applications extérieures,\n\r&#13;puisqu'il peut être vu de bien plus loin.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
+<Description>Le PharePlex émet un faisceau de très forte puissance\n\r&#13;au lieu d'illumination plate comme la LumièrePlex,\n\r&#13;et est donc mieux placé pour des applications extérieures,\n\r&#13;puisqu'il peut être vu de bien plus loin.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
 <FullName>Le Phare 'Aute-ALERT' du Dr. Plex</FullName>
 <Animated>false</Animated>
 <Armour>0</Armour>
@@ -1252,7 +1252,7 @@
 <BuildBlock icon="1" name="Bloc de Construction" textureId="220" type="BUILD_BLOCK_ID">
 <IndividualSides>1</IndividualSides>
 <Price>1000</Price>
-<Description>Le Bloc de Construction peut être placé n'importe où\n\r&#13;quasiment, et permet à l'utilisateur d'entrer en Build Mode\n\r&#13;sans avoir besoin d'un Vaisseau ou d'un Core de\n\r&#13;Vaisseau, permettant la construction d'édifices autres que\n\r&#13;des vaisseaux d'être construits.\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour entrer ou sortir du Bloc de\n\r&#13;Construction.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
+<Description>Le Bloc de Construction peut être placé quasi n'importe où,\n\r&#13; et permet à l'utilisateur d'entrer en Build Mode\n\r&#13;sans avoir besoin d'un Vaisseau ou d'un Core de\n\r&#13;Vaisseau, permettant la construction de bunkers ou de\n\r&#13;stations.\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour entrer ou sortir du Bloc de\n\r&#13;Construction.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -1270,7 +1270,7 @@
 <PlexStorage icon="2" name="StockagePlex" textureId="255" type="STASH_ELEMENT">
 <IndividualSides>1</IndividualSides>
 <Price>700</Price>
-<Description>Le StockagePlex fonctionne comme un inventaire statique\n\r&#13;et persistant, permettant l'utilisateur d'y stocker des\n\r&#13;items. La capacité actuelle est une grille de 7x5\n\r&#13;(Pareil que votre inventaire).\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour l'Ouvrir/Fermer.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
+<Description>Le StockagePlex fonctionne comme un inventaire statique\n\r&#13;et persistant, permettant à l'utilisateur d'y stocker des\n\r&#13;items. La capacité actuelle est une grille de 7x5\n\r&#13;(Pareil que votre inventaire).\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour l'Ouvrir/Fermer.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
 <FullName>L'Unité de Stockage 'Garder-au-Sécurité' du Dr. Plex</FullName>
 <Animated>false</Animated>
 <Armour>0</Armour>
@@ -1505,7 +1505,7 @@
 <AntiMatterCannon icon="5" name="Canon AntiMatière" textureId="64" type="WEAPON_ID">
 <IndividualSides>6</IndividualSides>
 <Price>275</Price>
-<Description>Le Canon AntiMatière, quand utilisé en conjonction\n\r&#13;avec un Ordinateur d'Armes, système d'armement\n\r&#13;simple mais efficace. \n\r&#13;\n\r&#13;Le Canon AntiMatière tire un projectile en forme de\n\r&#13;faisceau dans une ligne droite.\n\r&#13;\n\r&#13;Les Canons AntiMatière bénéficient de bonus s'ils\n\r&#13;sont groupés ensemble (Les uns à côtés des autres),\n\r&#13;permettant les Canons de tirer plus loin, accélérer\n\r&#13;plus vite, frapper plus fort, et recharger plus\n\r&#13;efficacement.\n\r&#13;Vous pouvez aussi choisir quel Canon AntiMatière\n\r&#13;produit le projectile en en entrant dans le Mode\n\r&#13;Astronaute, en regardant le Canon en question et en\n\r&#13;appuyant sur $ACTIVATE dessus.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
+<Description>Le Canon AntiMatière, quand utilisé en conjonction\n\r&#13;avec un Ordinateur d'Armes, système d'armement\n\r&#13;simple mais efficace. \n\r&#13;\n\r&#13;Le Canon AntiMatière tire un projectile en forme de\n\r&#13;faisceau en ligne droite.\n\r&#13;\n\r&#13;Les Canons AntiMatière bénéficient de bonus s'ils\n\r&#13;sont groupés ensemble (Les uns à côtés des autres),\n\r&#13;permettant les Canons de tirer plus loin, accélérer\n\r&#13;plus vite, frapper plus fort, et recharger plus\n\r&#13;efficacement.\n\r&#13;Vous pouvez aussi choisir quel Canon AntiMatière\n\r&#13;produit le projectile en entrant dans le Mode\n\r&#13;Astronaute, en regardant le Canon en question et en\n\r&#13;appuyant sur $ACTIVATE dessus.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
 <FullName>Canon AntiMatière w9-C de SchemaDyne</FullName>
 <ControlledBy>
 <Element>WEAPON_CONTROLLER_ID</Element>
@@ -1527,8 +1527,8 @@
 <SalvageComputer icon="6" name="Ordinateur de Recyclage" textureId="48" type="SALVAGE_CONTROLLER_ID">
 <IndividualSides>6</IndividualSides>
 <Price>800</Price>
-<Description>L'Ordinateur de Recyclage est requis pour la\n\r&#13;création de systèmes de Rayons de Recyclage.\n\r&#13;\n\r&#13;Il est capable de contrôller une quantité\n\r&#13;techniquement inifinie de Rayons. Une fois placé,\n\r&#13;vous pouvez le sélectionner/désélectionner avec C,\n\r&#13;et y lier les Rayons de Recyclage en utilisant V\n\r&#13;pendant qu'il est encore sélectionné et que vous\n\r&#13;regardez un Rayon de Recyclage.\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour Entrer/Sortir de l'Ordinateur.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
-<FullName> Ordinateur de Transportation Ecologique Mr.Vert (TM) de SchemaDyne </FullName>
+<Description>L'Ordinateur de Recyclage est requis pour la\n\r&#13;création de systèmes de Rayons de Recyclage.\n\r&#13;\n\r&#13;Il est capable de contrôler une quantité\n\r&#13;techniquement inifinie de Rayons. Une fois placé,\n\r&#13;vous pouvez le sélectionner/désélectionner avec C,\n\r&#13;et y lier les Rayons de Recyclage en utilisant V\n\r&#13;pendant qu'il est encore sélectionné et que vous\n\r&#13;regardez un Rayon de Recyclage.\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour Entrer/Sortir de l'Ordinateur.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
+<FullName> Ordinateur de Transport Ecologique Mr.Vert (TM) de SchemaDyne </FullName>
 <ControlledBy>
 <Element>CORE_ID</Element>
 </ControlledBy>
@@ -1553,7 +1553,7 @@
 <IndividualSides>6</IndividualSides>
 <Price>400</Price>
 <Description>Les Rayons de Recyclage, quand utilisés en\n\r&#13;conjonction avec un Ordinateur de Recyclage,\n\r&#13;peuvent créer un système de récolte efficace. \n\r&#13;\n\r&#13;Les Rayons de Recyclage partent dans une ligne\n\r&#13;droite.\n\r&#13;\n\r&#13;Ces derniers bénéficient d'être groupés ensemble\n\r&#13;(Les uns à côté des autres), donnant la capacité\n\r&#13;aux Rayons de récolter plus\n\r&#13;rapidement.\n\r&#13;\n\r&#13;Les Rayons de Recyclage peuvent être utilisés pour\n\r&#13;récolter des pièces sur des Vaisseaux ou Stations\n\r&#13;inactifs ou pour miner des Astéroïdes et Planètes.\n\r&#13;\n\r&#13;-Caractéristqius-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
-<FullName>Rayon de Transportation Ecologique Mr.Vert (TM) de SchemaDyne</FullName>
+<FullName>Rayon de Transport Ecologique Mr.Vert (TM) de SchemaDyne</FullName>
 <ControlledBy>
 <Element>SALVAGE_CONTROLLER_ID</Element>
 </ControlledBy>
@@ -1574,7 +1574,7 @@
 <AstroTechnician icon="8" name="AstroTechnicien" textureId="192" type="REPAIR_CONTROLLER_ID">
 <IndividualSides>6</IndividualSides>
 <Price>800</Price>
-<Description>L'AstroTechnicien est requis pour la création\n\r&#13;de systèmes AstroTechnobeam efficaces.\n\r&#13;\n\r&#13;Il est capable de contrôller une quantité\n\r&#13;techniquement inifinie d'AstroTechnobeams.\n\r&#13;Une fois placé, vous pouvez le\n\r&#13;sélectionner/désélectionner avec C, et y lier les\n\r&#13;AstroTechnobeam en utilisant V pendant qu'il\n\r&#13;est encore sélectionné et que vous regardez un\n\r&#13;AstroTechnobeam.\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour Entrer/Sortir de l'Ordinateur.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
+<Description>L'AstroTechnicien est requis pour la création\n\r&#13;de systèmes AstroTechnobeam efficaces.\n\r&#13;\n\r&#13;Il est capable de contrôler une quantité\n\r&#13;techniquement inifinie d'AstroTechnobeams.\n\r&#13;Une fois placé, vous pouvez le\n\r&#13;sélectionner/désélectionner avec C, et y lier les\n\r&#13;AstroTechnobeam en utilisant V pendant qu'il\n\r&#13;est encore sélectionné et que vous regardez un\n\r&#13;AstroTechnobeam.\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour Entrer/Sortir de l'Ordinateur.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
 <FullName>RoboDroide AstroTechnicien r4 de SchemaDyne</FullName>
 <ControlledBy>
 <Element>CORE_ID</Element>
@@ -1621,7 +1621,7 @@
 <dMissileCPU icon="10" name="CPU de Missiles d1000" textureId="144" type="MISSILE_DUMB_CONTROLLER_ID">
 <IndividualSides>6</IndividualSides>
 <Price>800</Price>
-<Description>Le CPU de Missiles d1000 est requis pour la\n\r&#13;création de Batteries de Missiles d1000.\n\r&#13;\n\r&#13;Puisque ça manque les circuits nécéssaires, le CPU\n\r&#13;de Missiles d1000 ne peut que tirer sans ciblage.\n\r&#13;\n\r&#13;Il est capable de contrôller une quantité\n\r&#13;techniquement infine de Batteries de Missile d1000.\n\r&#13;Une fois placé, vous pouvez le\n\r&#13;Sélectionner/Désélectionner avec C, et y lier les\n\r&#13;Batteries avec V pendant qu'il est sélectionné et que\n\r&#13;vous regardez une Batterie.\n\r&#13;Appuyez sur $ACTIVATE pour Entrer/Sortir du CPU.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
+<Description>Le CPU de Missiles d1000 est requis pour la\n\r&#13;création de Batteries de Missiles d1000.\n\r&#13;\n\r&#13;Puisqu'il manque les circuits nécéssaires, le CPU\n\r&#13;de Missiles d1000 ne peut que tirer sans viser.\n\r&#13;\n\r&#13;Il est capable de contrôler une quantité\n\r&#13;techniquement infine de Batteries de Missile d1000.\n\r&#13;Une fois placé, vous pouvez le\n\r&#13;Sélectionner/Désélectionner avec C, et y lier les\n\r&#13;Batteries avec V pendant qu'il est sélectionné et que\n\r&#13;vous regardez une Batterie.\n\r&#13;Appuyez sur $ACTIVATE pour Entrer/Sortir du CPU.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
 <FullName>Ordinateur de Missiles d1000 de SchemaDyne</FullName>
 <ControlledBy>
 <Element>CORE_ID</Element>
@@ -1646,7 +1646,7 @@
 <dMissileArray icon="11" name="Batterie de Missiles d1000" textureId="150" type="MISSILE_DUMB_ID">
 <IndividualSides>6</IndividualSides>
 <Price>300</Price>
-<Description>La Batterie de Missiles d1000, quand utilisé en\n\r&#13;conjonction avec un CPU de Missiles d1000, peut\n\r&#13;créer un système de missiles simple mais efficace.\n\r&#13;\n\r&#13;La Batterie de Missiles d1000 lance un missile avec\n\r&#13;un trajectoire de vol droit. Pusiqu'il leur manque\n\r&#13;les circuits nécéssaires, les Batteries de Missiles\n\r&#13;d1000 ne peuvent pas cibler des entités, signifiant\n\r&#13;qu'ils sont générallement fait pour des cibles\n\r&#13;immobiles ou la démolition.\n\r&#13;\n\r&#13;Les Batteries de Missiles d1000 bénéficient d'être\n\r&#13;groupés ensemble (les uns à côté des autres), les\n\r&#13;permettant de\n\r&#13;tirer plus loin, voler plus vite, frapper plus\n\r&#13;fort, recharger plus efficacement, et avoir un plus\n\r&#13;grand rayon d'explosion.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
+<Description>La Batterie de Missiles d1000, quand utilisé en\n\r&#13;conjonction avec un CPU de Missiles d1000, peut\n\r&#13;créer un système de missiles simple mais efficace.\n\r&#13;\n\r&#13;La Batterie de Missiles d1000 lance un missile avec\n\r&#13;un trajectoire de vol droit. Pusiqu'il leur manque\n\r&#13;les circuits nécéssaires, les Batteries de Missiles\n\r&#13;d1000 ne peuvent pas cibler des entités, signifiant\n\r&#13;qu'ils sont généralement fait pour des cibles\n\r&#13;immobiles ou la démolition.\n\r&#13;\n\r&#13;Les Batteries de Missiles d1000 bénéficient d'être\n\r&#13;groupés ensemble (les uns à côté des autres), les\n\r&#13;permettant de\n\r&#13;tirer plus loin, voler plus vite, frapper plus\n\r&#13;fort, recharger plus efficacement, et avoir un plus\n\r&#13;grand rayon d'explosion.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie</Description>
 <FullName>Batterie de Missiles d1000 de SchemaDyne</FullName>
 <ControlledBy>
 <Element>MISSILE_DUMB_CONTROLLER_ID</Element>
@@ -1668,7 +1668,7 @@
 <SDKBMissileCPU icon="12" name="CPU de Missiles SD KB" textureId="160" type="MISSILE_HEAT_CONTROLLER_ID">
 <IndividualSides>6</IndividualSides>
 <Price>900</Price>
-<Description>Le CPU de Missiles SD KB est requis pour\n\r&#13;l'utilisation de Batteries de Missiles SD KB.\n\r&#13;\n\r&#13;Le CPU de Missiles SD KB est équipé d'une\n\r&#13;technologie plus avancée, donnant à ses Batteries\n\r&#13;la capacité d'avoir des missiles à tête chercheuse\n\r&#13;thermiques.\n\r&#13;Il ciblera automatiquement (C'est à dire\n\r&#13;que la cible que vous ciblez pourrait ne pas être la\n\r&#13;même que le missile) le vaisseau le plus proche, sans\n\r&#13;tenir compte du vôtre, bien sur. Vous devriez\n\r&#13;donc faire attention quand vous ouvrez le feu autour\n\r&#13;de vaisseaux alliés, car il changera de cible si\n\r&#13;intercepté par une source de chaleur plus proche.\n\r&#13;\n\r&#13;Il est capable de contrôller une quantité\n\r&#13;techniquement infinie de Batteries de Missiles SD KB.\n\r&#13;Une fois placé, vous pouvez le\n\r&#13;Sélectionner/Désélectionner avec C, et y lier des\n\r&#13;Batteries avec V pendant qu'il est sélectionné et que\n\r&#13;vous regardez une Batterie de Missiles.\n\r&#13;Appuyez sur $ACTIVATE pour Entrer/Sortir du CPU.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie\n\r&#13;</Description>
+<Description>Le CPU de Missiles SD KB est requis pour\n\r&#13;l'utilisation de Batteries de Missiles SD KB.\n\r&#13;\n\r&#13;Le CPU de Missiles SD KB est équipé d'une\n\r&#13;technologie plus avancée, donnant à ses Batteries\n\r&#13;la capacité d'avoir des missiles à tête chercheuse\n\r&#13;thermiques.\n\r&#13;Il ciblera automatiquement (C'est à dire\n\r&#13;que la cible que vous ciblez pourrait ne pas être la\n\r&#13;même que le missile) le vaisseau le plus proche, sans\n\r&#13;tenir compte du vôtre, bien sur. Vous devriez\n\r&#13;donc faire attention quand vous ouvrez le feu autour\n\r&#13;de vaisseaux alliés, car il changera de cible si\n\r&#13;intercepté par une source de chaleur plus proche.\n\r&#13;\n\r&#13;Il est capable de contrôler une quantité\n\r&#13;techniquement infinie de Batteries de Missiles SD KB.\n\r&#13;Une fois placé, vous pouvez le\n\r&#13;Sélectionner/Désélectionner avec C, et y lier des\n\r&#13;Batteries avec V pendant qu'il est sélectionné et que\n\r&#13;vous regardez une Batterie de Missiles.\n\r&#13;Appuyez sur $ACTIVATE pour Entrer/Sortir du CPU.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie\n\r&#13;</Description>
 <FullName>Ordinateur de Missiles Kingsblood de SchemaDyne</FullName>
 <ControlledBy>
 <Element>CORE_ID</Element>
@@ -1693,7 +1693,7 @@
 <SDKBMissileArray icon="13" name="Batterie de Missiles SD KB" textureId="166" type="MISSILE_HEAT_ID">
 <IndividualSides>6</IndividualSides>
 <Price>300</Price>
-<Description>La Batterie de Missiles SD KB, quand utilisé en\n\r&#13;conjonction avec un CPU de Missiles SD KB, peut\n\r&#13;créer un système de missiles efficace. \n\r&#13;\n\r&#13;La Batterie de Missiles SD KB tire un missile avec un\n\r&#13;trajectoire de vol initialement droit, jusqu'à ce\n\r&#13;qu'il trouve une source de chaleur.\n\r&#13;De là, il commencera à poursuivre la cible, jusqu'à\n\r&#13;ce qu'il la touche, trouve une source de chaleur plus\n\r&#13;proche, ou tombe à court de carburant\n\r&#13;Ils n'ont toujours pas les circuits nécessaires pour le\n\r&#13;ciblage manuel.\n\r&#13;\n\r&#13;Les Batteries de Missiles SD KBs bénéficient d'être\n\r&#13;groupés ensemble (les uns à côté des autres), leur\n\r&#13;permettant de tirer plus loin, voyager plus vite, frapper\n\r&#13;plus fort, recharger plus efficacement, et avoir un plus\n\r&#13;grand rayon d'explosion.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie\n\r&#13;</Description>
+<Description>La Batterie de Missiles SD KB, quand utilisé en\n\r&#13;conjonction avec un CPU de Missiles SD KB, peut\n\r&#13;créer un système de missiles efficace. \n\r&#13;\n\r&#13;La Batterie de Missiles SD KB tire un missile avec un\n\r&#13;trajectoire de vol initialement droite, jusqu'à ce\n\r&#13;qu'il trouve une source de chaleur.\n\r&#13;De là, il commencera à poursuivre la cible, jusqu'à\n\r&#13;ce qu'il la touche, trouve une source de chaleur plus\n\r&#13;proche, ou tombe à court de carburant\n\r&#13;Elle n'a toujours pas les circuits nécessaires pour le\n\r&#13;ciblage manuel.\n\r&#13;\n\r&#13;Les Batteries de Missiles SD KBs bénéficient d'être\n\r&#13;groupés ensemble (les uns à côté des autres), leur\n\r&#13;permettant de tirer plus loin, voyager plus vite, frapper\n\r&#13;plus fort, recharger plus efficacement, et avoir un plus\n\r&#13;grand rayon d'explosion.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie\n\r&#13;</Description>
 <FullName>Batterie de Missiles Kingsblood de SchemaDyne</FullName>
 <ControlledBy>
 <Element>MISSILE_HEAT_CONTROLLER_ID</Element>
@@ -1715,7 +1715,7 @@
 <SDBBMissileComputer icon="14" name="CPU de Missiles SD-BB" textureId="176" type="MISSILE_FAFO_CONTROLLER_ID">
 <IndividualSides>6</IndividualSides>
 <Price>1000</Price>
-<Description>Le CPU de Missiles SD-BB est requis pour \n\r&#13;l'utilisation des Batteries de Missiles SD-BB.\n\r&#13;\n\r&#13;Le CPU de Missiles SD-BB est équipé de la\n\r&#13;meilleure technologie sur le marché, permettant\n\r&#13;à ses Batteries de détecter toute cible visible dans\n\r&#13;son secteur.\n\r&#13;Il a aussi la capacité de cibler les entités, et ne\n\r&#13;lachera cette cible.\n\r&#13;Pour verouiller des cibles, gardez votre visée par\n\r&#13;dessus, jusqu'à ce que le cercle devienne vert.\n\r&#13;\n\r&#13;Il est capable de contrôller une quantité\n\r&#13;techniquement infinie de Batteries de Missiles SD KB.\n\r&#13;Une fois placé, vous pouvez le\n\r&#13;Sélectionner/Désélectionner avec C, et y lier\n\r&#13;des Batteries avec V pendant qu'il est sélectionné\n\r&#13;et que vous regardez une Batterie de Missiles.\n\r&#13;Appuyez sur $ACTIVATE pour Entrer/Sortir du CPU.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie\n\r&#13;</Description>
+<Description>Le CPU de Missiles SD-BB est requis pour \n\r&#13;l'utilisation des Batteries de Missiles SD-BB.\n\r&#13;\n\r&#13;Le CPU de Missiles SD-BB est équipé de la\n\r&#13;meilleure technologie sur le marché, permettant\n\r&#13;à ses Batteries de détecter toute cible visible dans\n\r&#13;son secteur.\n\r&#13;Il a aussi la capacité de cibler les entités, et ne\n\r&#13;lachera pas cette cible.\n\r&#13;Pour verrouiller des cibles, gardez votre visée par\n\r&#13;dessus, jusqu'à ce que le cercle devienne vert.\n\r&#13;\n\r&#13;Il est capable de contrôller une quantité\n\r&#13;techniquement infinie de Batteries de Missiles SD KB.\n\r&#13;Une fois placé, vous pouvez le\n\r&#13;Sélectionner/Désélectionner avec C, et y lier\n\r&#13;des Batteries avec V pendant qu'il est sélectionné\n\r&#13;et que vous regardez une Batterie de Missiles.\n\r&#13;Appuyez sur $ACTIVATE pour Entrer/Sortir du CPU.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% Armure\n\r&#13;$HP Points de Vie\n\r&#13;</Description>
 <FullName>Ordinateur de Missiles Bunker Buster Prémium de SchemaDyne</FullName>
 <ControlledBy>
 <Element>CORE_ID</Element>
@@ -1740,7 +1740,7 @@
 <SDBBMissileArray icon="15" name="Batterie de Missile SD-BB" textureId="182" type="MISSILE_FAFO_ID">
 <IndividualSides>6</IndividualSides>
 <Price>300</Price>
-<Description>Cette batterie de missile, utilisée en conjonction\n\r&#13;avec le bon ordinateur, permet de créer un\n\r&#13;puissant système de missile. \n\r&#13;\n\r&#13;Les missiles partent avec une trajectoire rectiligne,\n\r&#13;sauf si une cible a été vérouillé.\n\r&#13;Dans ce cas, le missile corrigera sa trajectoire\n\r&#13;toucher la cible quelque soit les conditions.\n\r&#13;\n\r&#13;Les batteries seront plus performantes si\n\r&#13;elles sont regroupées entres elles, ainsi\n\r&#13;vos missiles iront plus loins, plus vite, se rechargeront\n\r&#13;plus efficacement et exploseront plus fort.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Cette batterie de missile, utilisée en conjonction\n\r&#13;avec le bon ordinateur, permet de créer un\n\r&#13;puissant système de missile. \n\r&#13;\n\r&#13;Les missiles partent avec une trajectoire rectiligne,\n\r&#13;sauf si une cible a été vérrouillée.\n\r&#13;Dans ce cas, le missile corrigera sa trajectoire\n\r&#13;pour toucher la cible quelque soit les conditions.\n\r&#13;\n\r&#13;Les batteries seront plus performantes si\n\r&#13;elles sont regroupées entres elles, ainsi\n\r&#13;vos missiles iront plus loin, plus vite, se rechargeront\n\r&#13;plus efficacement et exploseront plus fort.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <FullName>Batterie de Missile "Bunker Buster" Premium SchemaDyne</FullName>
 <ControlledBy>
 <Element>MISSILE_FAFO_CONTROLLER_ID</Element>
@@ -1762,7 +1762,7 @@
 <DisIntegraterExplosive icon="17" name="Dés-intégrateur (Explosif)" textureId="254" type="EXPLOSIVE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>300</Price>
-<Description>Le dés-intégrateur est un explosif grossier mais efficace.\n\r&#13;Il peut être allié avec d'autres dés-intégrateur pour\n\r&#13;augmenter le rayon et la puissance de l'explosion. Ils \n\r&#13;sont actuellement activés par contact avec\n\r&#13;d'autres blocs et exploseront immédiatement.\n\r&#13;Ils sont ainsi très efficace pour creér des mines ou des;\n\r&#13;missiles, les applications possibles ne sont limitées que par\n\r&#13;\votre imagination.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Le dés-intégrateur est un explosif grossier mais efficace.\n\r&#13;Il peut être allié avec d'autres dés-intégrateur pour\n\r&#13;augmenter le rayon et la puissance de l'explosion. Ils \n\r&#13;sont actuellement activés par contact avec\n\r&#13;d'autres blocs et exploseront immédiatement.\n\r&#13;Ils sont ainsi très efficaces pour creér des mines ou des;\n\r&#13;missiles, les applications possibles ne sont limitées que par\n\r&#13;\votre imagination.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <FullName>Unité de Désintégration des Particules SubAtomiques R0GUE</FullName>
 <ControlledBy>
 <Element>CORE_ID</Element>
@@ -1784,7 +1784,7 @@
 <CCloaker icon="18" name="Module d'Invisibilité 0C" textureId="224" type="CLOAKING_ID">
 <IndividualSides>6</IndividualSides>
 <Price>800</Price>
-<Description>Le Module d'Invisibilité 0C est capable\n\r&#13;de rendre un objet complétement invisible avant\n\r&#13;d'avoir besoin de se recharger. Sa puissance est\n\r&#13;limitée par le nombre de module à bord \n\r&#13;et leur organisation.\n\r&#13;\n\r&#13;Ainsi, de plus grands objets ont besoin d'un grand\n\r&#13;groupe de module d'Invisibilité.\n\r&#13;\n\r&#13;Afin d'utiliser le module, assignez-leurs une touche\n\r&#13;comme pour les autres sytèmes.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Le Module d'Invisibilité 0C est capable\n\r&#13;de rendre un objet complétement invisible avant\n\r&#13;d'avoir besoin de se recharger. Sa puissance est\n\r&#13;limitée par le nombre de module à bord \n\r&#13;et leur organisation.\n\r&#13;\n\r&#13;Ainsi, de plus grands objets ont besoin d'un grand\n\r&#13;groupe de module d'Invisibilité.\n\r&#13;\n\r&#13;Afin d'utiliser le module, assignez-lui une touche\n\r&#13;comme pour les autres sytèmes.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <FullName>Ordinateur de contre-mesure visuelle R0GUE 0C</FullName>
 <ControlledBy>
 <Element>CORE_ID</Element>
@@ -1828,7 +1828,7 @@
 <HyperfluxCoilThruster icon="20" name="Propulseur à Bobines Hyperflux" textureId="70" type="THRUSTER_ID">
 <IndividualSides>6</IndividualSides>
 <Price>275</Price>
-<Description>Le propulseur à bobines Hyperflux est le moyen de\n\r&#13;propulsion de référence pour tout les vaisseaux.\n\r&#13;Ils utilisent l'énergie fournis par le générateur. \n\r&#13;SD HCT xm3.4.\n\r&#13;\n\r&#13;En groupe, ils vous offriront plus de poussées, une\n\r&#13;meilleure accélération, et une maniabilité plus important.\n\r&#13;Tout cela est au prix d'une consommation plus grande.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Le propulseur à bobines Hyperflux est le moyen de\n\r&#13;propulsion de référence pour tout les vaisseaux.\n\r&#13;Il utilise l'énergie fournie par le générateur. \n\r&#13;SD HCT xm3.4.\n\r&#13;\n\r&#13;En groupe, ils vous offriront plus de poussées, une\n\r&#13;meilleure accélération, et une maniabilité plus important.\n\r&#13;Tout cela est au prix d'une consommation plus grande.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <FullName>Propulseur à Bobines Hyperflux (TM) SchemaDyne</FullName>
 <ControlledBy>
 <Element>CORE_ID</Element>
@@ -1952,7 +1952,7 @@
 <PowerdrainBeamComputer icon="279" name="Ordinateur de drainage" textureId="112" type="POWER_DRAIN_BEAM_COMPUTER">
 <IndividualSides>6</IndividualSides>
 <Price>100</Price>
-<Description>Un controlleur pour les rayons transférant\n\r&#13;l'énergie d'autres structures à votre vaisseau.\n\r&#13;\n\r&#13;Ce rayon ne peut être bloqué par des boucliers, mais\n\r&#13;ne peut agir que si des modules d'énergie\n\r&#13;sont pris pour cible.</Description>
+<Description>Un contrôleur pour les rayons transférant\n\r&#13;l'énergie d'autres structures à votre vaisseau.\n\r&#13;\n\r&#13;Ce rayon ne peut être bloqué par des boucliers, mais\n\r&#13;ne peut agir que si des modules d'énergie\n\r&#13;sont pris pour cible.</Description>
 <ControlledBy>
 <Element>CORE_ID</Element>
 </ControlledBy>
@@ -1999,7 +1999,7 @@
 <FactoryInput icon="157" name="Entrée de Fabrique" textureId="263" type="FACTORY_INPUT_ID">
 <IndividualSides>3</IndividualSides>
 <Price>1000</Price>
-<Description>Ce bloc peut être connecté à une autre\n\r&#13;Fabrique (Presse Moléculaire, Schemadyne Avancée,\n\r&#13;etc.) pour permettre la production de certains blocs.\n\r&#13;\n\r&#13;La liaison se fait en sélectionnant un bloc avec C\n\r&#13;et ensuite en appuyant sur V en regardant l'autre\n\r&#13; Fabrique. Il faut ensuite faire la même chose dans l'autre\n\r&#13;sens. Ainsi, nous créeons un lien bi-diemmensionnel. \n\r&#13;\n\r&#13;Exemple en 5étapes :\n\r&#13;\n\r&#13;1. Entrée de Fabrique (C pour sélectionner)\n\r&#13;2. Schemadyne Avancée (V pour connecter)\n\r&#13;3. Entrée de Fabrique (C pour désélectionner)\n\r&#13;4. Schemadyne Avancée (C pour sélectionner)\n\r&#13;5. Entrée de la Fabrique (V pour connecter)\n\r&#13;\n\r&#13;Souvenez vous que cela est fait en\n\r&#13;regardant les différents blocs.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Ce bloc peut être connecté à une autre\n\r&#13;Fabrique (Presse Moléculaire, Schemadyne Avancée,\n\r&#13;etc.) pour permettre la production de certains blocs.\n\r&#13;\n\r&#13;La liaison se fait en sélectionnant un bloc avec C\n\r&#13;et ensuite en appuyant sur V en regardant l'autre\n\r&#13; Fabrique. Il faut ensuite faire la même chose dans l'autre\n\r&#13;sens. Ainsi, nous créons un lien bi-dimensionnel. \n\r&#13;\n\r&#13;Exemple en 5 étapes :\n\r&#13;\n\r&#13;1. Entrée de Fabrique (C pour sélectionner)\n\r&#13;2. Schemadyne Avancée (V pour connecter)\n\r&#13;3. Entrée de Fabrique (C pour désélectionner)\n\r&#13;4. Schemadyne Avancée (C pour sélectionner)\n\r&#13;5. Entrée de la Fabrique (V pour connecter)\n\r&#13;\n\r&#13;Souvenez-vous que cela est fait en\n\r&#13;regardant les différents blocs.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <FullName>Entrée de Fabrique</FullName>
 <ControlledBy/>
 <Controlling>
@@ -2023,7 +2023,7 @@
 <FactoryInputEnhancer icon="158" name="Amélioration de l'Entrée de Fabrique" textureId="279" type="FACTORY_INPUT_ENH_ID">
 <IndividualSides>3</IndividualSides>
 <Price>250</Price>
-<Description>Cette amélioration est capable de doubler\n\r&#13;la vitesse de n'importe quelle fabrique\n\r&#13;(Presse à particule, SchemaDyne avancée, etc.) a \n\r&#13;llaquelle elle est connectée. Pour la connecter,\n\r&#13;séléctionnez la Fabrique en question et ensuite\n\r&#13;regardez l'Amélioration et appuyez sur V. Ou\n\r&#13;sélectionnez la Fabrique en premier, et placez \n\r&#13;ensuite l'Amélioration.\n\r&#13;\n\r&#13;Un cycle de production dure cinq secondes. Ainsi, \n\r&#13;cette amélioration ajoute un nouveau cycle pendant \n\r&#13;les cinq secondes. Notez que cela ne veut pas dire\n\r&#13;que vous obtenez plus de vos matériaux. Vous en \n\r&#13;obtenez plus PAR cycle de cinq secondes. \n\r&#13;Vous pouvez placer autant d'Amélioration que vous\n\r&#13;le voulez. Veuillez juste à avoir suffisament de \n\r&#13; matériel en entrée. Sinon, rien ne se passera.\n\r&#13;Voici un exemple : \n\r&#13;\n\r&#13;Recette de la Presse Moléculaire\n\r&#13;Yhole x20 --&gt; Noyau de Yhole x1\n\r&#13;\n\r&#13;Sans amélioration:\n\r&#13;Cinq secondes = Yhole x20 --&gt; Noyau de Yhole x1\n\r&#13;\n\r&#13;Avec cinq amélioration connectée:\n\r&#13;Cinq secondes = Yhole x100 ---&gt; Noyau de Yhole x10\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Cette amélioration est capable de doubler\n\r&#13;la vitesse de n'importe quelle fabrique\n\r&#13;(Presse à particule, SchemaDyne avancée, etc.) à \n\r&#13;laquelle elle est connectée. Pour la connecter,\n\r&#13;séléctionnez la Fabrique en question et ensuite\n\r&#13;regardez l'Amélioration et appuyez sur V. Ou\n\r&#13;sélectionnez la Fabrique en premier, et placez \n\r&#13;ensuite l'Amélioration.\n\r&#13;\n\r&#13;Un cycle de production dure cinq secondes. Ainsi, \n\r&#13;cette amélioration ajoute un nouveau cycle pendant \n\r&#13;les cinq secondes. Notez que cela ne veut pas dire\n\r&#13;que vous obtenez plus de vos matériaux. Vous en \n\r&#13;obtenez plus PAR cycle de cinq secondes. \n\r&#13;Vous pouvez placer autant d'Amélioration que vous\n\r&#13;le voulez. Veuillez juste à avoir suffisament de \n\r&#13; matériel en entrée. Sinon, rien ne se passera.\n\r&#13;Voici un exemple : \n\r&#13;\n\r&#13;Recette de la Presse Moléculaire\n\r&#13;Yhole x20 --&gt; Noyau de Yhole x1\n\r&#13;\n\r&#13;Sans amélioration:\n\r&#13;Cinq secondes = Yhole x20 --&gt; Noyau de Yhole x1\n\r&#13;\n\r&#13;Avec cinq amélioration connectée:\n\r&#13;Cinq secondes = Yhole x100 ---&gt; Noyau de Yhole x10\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <FullName>Amélioration de l'Entrée de Fabrique</FullName>
 <ControlledBy>
 <Element>FACTORY_SDADV</Element>
@@ -4513,10 +4513,10 @@
 </SCIENCEBOTTLE>
 </Manufacturing>
 <SpaceStation>
-<PlexLander icon="38" name="Atterisseur Plex" textureId="63" type="LANDING_ELEMENT">
+<PlexLander icon="38" name="Aterrisseur Plex" textureId="63" type="LANDING_ELEMENT">
 <IndividualSides>1</IndividualSides>
 <Price>700</Price>
-<Description>				Ah oui, cette unité d'"atterissage". Je ne suis même pas sûre\n\r&#13;				de vouloir lui donner mon nom mais ceci est l'unite d'Atterissage GRAVILOCK\n\r&#13;				du DOCTEUR Plex. Tant que vous en avez suffisament\n\r&#13;				vous pouvez y attacher n'importe qu'elle vaisseau\n\r&#13;				et le maintenir en place.\n\r&#13;				\n\r&#13;				----------------------------------------------------\n\r&#13;				FIN DE TRANSMISSION: MX-UV009b.1-x24.01006 DR.Plex ::\n\r&#13;				\n\r&#13;				Appuyez sur $ACTIVATE pour activer.\n\r&#13;			</Description>
+<Description>				Ah oui, cette unité d'"aterrissage". Je ne suis même pas sûr\n\r&#13;				de vouloir lui donner mon nom mais ceci est l'unite d'Atterissage GRAVILOCK\n\r&#13;				du DOCTEUR Plex. Tant que vous en avez suffisament\n\r&#13;				vous pouvez y attacher n'importe qu'elle vaisseau\n\r&#13;				et le maintenir en place.\n\r&#13;				\n\r&#13;				----------------------------------------------------\n\r&#13;				FIN DE TRANSMISSION: MX-UV009b.1-x24.01006 DR.Plex ::\n\r&#13;				\n\r&#13;				Appuyez sur $ACTIVATE pour activer.\n\r&#13;			</Description>
 <FullName>Dr.Plex's Lando Plexlissian</FullName>
 <Animated>false</Animated>
 <Armour>0</Armour>
@@ -4535,7 +4535,7 @@
 <PlexLifter icon="39" name="Ascenseur Plex" textureId="240" type="LIFT_ELEMENT">
 <IndividualSides>3</IndividualSides>
 <Price>700</Price>
-<Description>L'ascenseur Plex permet de créer des élévateurs\n\r&#13;dans les grandes stations spatiales ou dans certains \n\r&#13;vaisseaux. Ils sont particulièrement utile en combinaison\n\r&#13;avec un Simulateur de Gravité. Tout comme les portes Plex, \n\r&#13; il est possible d'en construire de plus grand en plaçant plusieurs\n\r&#13;blocs côte à côte...\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour les activer / désactiver.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>L'ascenseur Plex permet de créer des élévateurs\n\r&#13;dans les grandes stations spatiales ou dans certains \n\r&#13;vaisseaux. Ils sont particulièrement utiles en combinaison\n\r&#13;avec un Simulateur de Gravité. Tout comme les portes Plex, \n\r&#13; il est possible d'en construire de plus grand en plaçant plusieurs\n\r&#13;blocs côte à côte...\n\r&#13;\n\r&#13;Appuyez sur $ACTIVATE pour les activer / désactiver.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <FullName>HyperAscenseur du Dr. Plex</FullName>
 <Animated>true</Animated>
 <Armour>0</Armour>
@@ -4554,7 +4554,7 @@
 <PlexUndeathinator icon="40" name="Immortalinator Plex" textureId="12" type="PLAYER_SPAWN_MODULE">
 <IndividualSides>3</IndividualSides>
 <Price>700</Price>
-<Description>Le Plex Immortalinator permet de définir un nouveau\n\r&#13;point de spawn. Pour ce faire, appuyez simplement sur $ACTIVATE\n\r&#13;tout en regardant un Immortalinator. Ils peuvent être \n\r&#13;trouvés aux magasins, ou tout simplement placé sur votre base. \n\r&#13;Ils n'ont pas étaient conçu pour les vaisseaux, utilisaient les \n\r&#13;à vos propres risques sur ceux-ci !\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Le Plex Immortalinator permet de définir un nouveau\n\r&#13;point de spawn. Pour ce faire, appuyez simplement sur $ACTIVATE\n\r&#13;tout en regardant un Immortalinator. Ils peuvent être \n\r&#13;trouvés aux magasins, ou tout simplement placés sur votre base. \n\r&#13;Ils n'ont pas été conçus pour les vaisseaux, utilisez-les \n\r&#13;à vos propres risques sur ceux-ci !\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <FullName>Unité de Retour à la Vie du Dr. Plex</FullName>
 <Animated>false</Animated>
 <Armour>0</Armour>
@@ -4573,7 +4573,7 @@
 <PlexRecycler icon="41" name="Recycleur du Dr. Plex" textureId="112" type="RECYCLER_ELEMENT">
 <IndividualSides>6</IndividualSides>
 <Price>10000</Price>
-<Description>				ET MAINTENANT ! CECI est la plus belle création du doc' PLEX\n\r&#13;				Oui! Oui!! le Recompositionneur Moléculaire du DOCTEUR Plex's\n\r&#13;				prendra n'importe qu'elle objet que vous lui donneriez\n\r&#13;				et le TRAAAANSFORMERA instantanément en.....  \n\r&#13;				\n\r&#13;				UN COEUR!\n\r&#13;				\n\r&#13;				(Eventuellement j'améliorerais le systèùe...\n\r&#13;				mais en attendant c'est tout ce qu'il fait).\n\r&#13;				\n\r&#13;				----------------------------------------------------\n\r&#13;				FIN DE TRANSMISSION: MX-UV009b.1-x24.02000 DR.Plex ::\n\r&#13;				\n\r&#13;				Appuyez sur $ACTIVATE pour activer\n\r&#13;				\n\r&#13;				P.S. Dr. Plex dit que vous êtes un méchant tricheur\n\r&#13;				si vous utilisez cette appareil pour autre chose que faire des\n\r&#13;				toasts!\n\r&#13;			</Description>
+<Description>				ET MAINTENANT ! CECI est la plus belle création du doc' PLEX\n\r&#13;				Oui! Oui!! le Recompositionneur Moléculaire du DOCTEUR Plex's\n\r&#13;				prendra n'importe quel objet que vous lui donneriez\n\r&#13;				et le TRAAAANSFORMERA instantanément en.....  \n\r&#13;				\n\r&#13;				UN COEUR!\n\r&#13;				\n\r&#13;				(Un jour j'améliorerai le système...\n\r&#13;				mais en attendant c'est tout ce qu'il fait).\n\r&#13;				\n\r&#13;				----------------------------------------------------\n\r&#13;				FIN DE TRANSMISSION: MX-UV009b.1-x24.02000 DR.Plex ::\n\r&#13;				\n\r&#13;				Appuyez sur $ACTIVATE pour activer\n\r&#13;				\n\r&#13;				P.S. Dr. Plex dit que vous êtes un méchant tricheur\n\r&#13;				si vous utilisez cette appareil pour autre chose que faire des\n\r&#13;				toasts!\n\r&#13;			</Description>
 <FullName>Recompositionneur Moléculaire du Dr. Plexs</FullName>
 <Animated>false</Animated>
 <Armour>0</Armour>
@@ -6356,7 +6356,7 @@
 <Ice icon="42" name="Glace" textureId="31" type="TERRAIN_ICE_ID">
 <IndividualSides>1</IndividualSides>
 <Price>1</Price>
-<Description>Il s'agit d'une forme solide l'eau, produite par un fort\n\r&#13;refroidissement de l'environnement.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Il s'agit d'une forme solide de l'eau, produite par un fort\n\r&#13;refroidissement de l'environnement.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -6698,7 +6698,7 @@
 <TallGrassFlowers icon="141" name="Hautes Herbes" textureId="230" type="TERRAIN_TALLGRASSFLOWERS_SPRITE">
 <IndividualSides>1</IndividualSides>
 <Price>10</Price>
-<Description>Un groupe de grande fleurs.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>Un groupe de grandes fleurs.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>true</Transparency>
@@ -6752,7 +6752,7 @@
 <Purptacles icon="144" name="Violentacule" textureId="233" type="TERRAIN_PURPTACLES_SPRITE">
 <IndividualSides>1</IndividualSides>
 <Price>10</Price>
-<Description>Des tentacules violettes.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;\n\r&#13;</Description>
+<Description>Des tentacules violets.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>true</Transparency>
@@ -6824,7 +6824,7 @@
 <Yhole icon="148" name="Yhole" textureId="249" type="TERRAIN_YHOLE_SPRITE">
 <IndividualSides>1</IndividualSides>
 <Price>10</Price>
-<Description>Une plante étrange pouvant être raffiné dans la bonne\n\r&#13;fabrique.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;\n\r&#13;</Description>
+<Description>Une plante étrange pouvant être raffinée dans la bonne\n\r&#13;fabrique.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>true</Transparency>
@@ -6950,7 +6950,7 @@
 <Water icon="155" name="Eau" textureId="252" type="TERRAIN_WATER">
 <IndividualSides>1</IndividualSides>
 <Price>1</Price>
-<Description>L'eau est un liquide transparent, sans odore\n\r&#13;et sans goût. L'eau est excessivement rare.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
+<Description>L'eau est un liquide transparent, sans odeur\n\r&#13;ni goût. L'eau est excessivement rare.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie\n\r&#13;</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>true</Transparency>
@@ -6965,10 +6965,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </Water>
-<ICEPLANETSURFACE icon="220" name="Surface de planète gélée" textureId="9" type="TERRAIN_ICEPLANET_SURFACE">
+<ICEPLANETSURFACE icon="220" name="Surface de planète gelée" textureId="9" type="TERRAIN_ICEPLANET_SURFACE">
 <IndividualSides>3</IndividualSides>
 <Price>1</Price>
-<Description>Une portion de la surface d'une planète gélée.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Une portion de la surface d'une planète gelée.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -7001,10 +7001,10 @@
 <BlockStyle>0</BlockStyle>
 <LightSourceColor>1.0,1.0,1.0</LightSourceColor>
 </ICEPLANETROCK>
-<ICEWOOD icon="222" name="Bois glacée" textureId="25" type="TERRAIN_ICEPLANET_WOOD">
+<ICEWOOD icon="222" name="Bois glacé" textureId="25" type="TERRAIN_ICEPLANET_WOOD">
 <IndividualSides>3</IndividualSides>
 <Price>300</Price>
-<Description>Du bois glacé, trouvé sur les planètes gélées.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Du bois glacé, trouvé sur les planètes gelées.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -7022,7 +7022,7 @@
 <ICELEAVES icon="223" name="Feuille glacée" textureId="47" type="TERRAIN_ICEPLANET_LEAVES">
 <IndividualSides>1</IndividualSides>
 <Price>200</Price>
-<Description>Des feuilles glacées, trouvées sur les planètes gélées.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Des feuilles glacées, trouvées sur les planètes gelées.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -7040,7 +7040,7 @@
 <ICESPIKE icon="224" name="Pic de Glace" textureId="202" type="TERRAIN_ICEPLANET_SPIKE_SPRITE">
 <IndividualSides>1</IndividualSides>
 <Price>10</Price>
-<Description>Un pic de pure glace.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Un pic de glace pure.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
@@ -7148,7 +7148,7 @@
 <REDWOODLEAVES icon="234" name="Feuille de Séquoia" textureId="47" type="TERRAIN_REDWOOD_LEAVES">
 <IndividualSides>1</IndividualSides>
 <Price>200</Price>
-<Description>Feuilles communéments trouvées sur les séquoia.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
+<Description>Feuilles communément trouvées sur les séquoias.\n\r&#13;\n\r&#13;-Caractéristiques Structurelles-\n\r&#13;$ARMOUR% d'Armure\n\r&#13;$HP de Points de Vie</Description>
 <Animated>false</Animated>
 <Armour>0</Armour>
 <Transparency>false</Transparency>
